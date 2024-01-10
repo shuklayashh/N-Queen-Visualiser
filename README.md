@@ -4,7 +4,7 @@ A project that visualizes the N-Queens problem using HTML, CSS, and JavaScript w
 
 ## Live Demo
 
-Check out the live demo [here](Your_Live_Demo_Link_Here).
+Check out the live demo [here]([(https://idyllic-puffpuff-f1e93f.netlify.app/)]).
 
 ## Features
 
